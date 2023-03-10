@@ -34,4 +34,4 @@ flutter run
 
 ## Repo Code
 
-![./screenshots/sumithhomescreen.png](./screenshots/sumithhomescreen.png)
+![./screenshots/sumithhomescreen.png](./screenshots/marta_foderaro_screenshot.png)
